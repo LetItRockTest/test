@@ -1,8 +1,4 @@
 # test
 test repo
 
-tetete
-asdfasdfsd
-dddddddddddddddd
-ltltltltltltltltlltlt
-blaaaaa
+TEST2
